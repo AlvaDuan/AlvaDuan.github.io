@@ -6,7 +6,7 @@ pubs:
 
     - title:   "Underemployment Trap"
       author:  "with Paul Jackson"
-      journal: "c"
+      journal: ""
       note:    ""
       year:    ""
       url:     "https://www.dropbox.com/s/j5dszovqzv7j5mv/Underemployment_Trap_20230223.pdf?dl=0"
