@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" max_height="300px" align="right" %}
 
-My name is Jie Duan!
+I am Jie Duan, a third-year Ph.D. student in the Department of Economics at the National University of Singapore. My primary research field is Macro Labor, where I delve into the intricacies of mismatch in the labor market, striving to understand its features and characteristics. 
 
 ## Contact
 
