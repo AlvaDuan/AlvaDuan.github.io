@@ -38,8 +38,8 @@ workpaper:
 {% endif %}
 [{{pub.title}}]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
+{{pub.journal}}
+{% if pub.note %} ({{pub.note}})
 {% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
@@ -55,8 +55,8 @@ workpaper:
 {% endif %}
 [{{wp.title}}]({% if wp.internal %}{{wp.url | prepend: site.baseurl}}{% else %}{{wp.url}}{% endif %})<br />
 {{wp.author}}<br />
-*{{wp.journal}}*
-{% if wp.note %} *({{wp.note}})*
+{{wp.journal}}
+{% if wp.note %} ({{wp.note}})
 {% endif %} *{{wp.year}}* {% if wp.doi %}[[doi]({{wp.doi}})]{% endif %}
 {% if wp.media %}<br />Media: {% for article in wp.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
