@@ -40,7 +40,7 @@ workpaper:
 {{pub.author}}<br />
 {{pub.journal}}
 {% if pub.note %} ({{pub.note}})
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} {{pub.year}} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
@@ -57,7 +57,7 @@ workpaper:
 {{wp.author}}<br />
 {{wp.journal}}
 {% if wp.note %} ({{wp.note}})
-{% endif %} *{{wp.year}}* {% if wp.doi %}[[doi]({{wp.doi}})]{% endif %}
+{% endif %} {{wp.year}} {% if wp.doi %}[[doi]({{wp.doi}})]{% endif %}
 {% if wp.media %}<br />Media: {% for article in wp.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
