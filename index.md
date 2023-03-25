@@ -11,8 +11,5 @@ I am Jie Duan, a third-year Ph.D. student in the Department of Economics at the 
 ## Contact
 
 NUS
-Email: [e0431602@u.nus.edu]
+Email:[e0431602@u.nus.edu]
 
-
-#[Yavin]: https://en.wikipedia.org/wiki/Yavin
-#[chewy@rebel.com]: mailto:chewy@rebel.com
