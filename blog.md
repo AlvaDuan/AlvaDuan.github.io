@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Teaching
 permalink: /blog/
 ---
 
-Here is the much awaited blog.
 
 <ul class="listing">
 {% for post in site.posts %}
