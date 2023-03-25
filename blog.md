@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /blog/
+visible: false
 ---
 
 
