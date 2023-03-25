@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" max_height="400px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="300px" max_height="40px" align="right" %}
 
 My name is Jie Duan!
 
