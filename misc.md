@@ -2,6 +2,7 @@
 layout: page
 title: Interests
 permalink: /misc/
+visible: false
 ---
 
 ## Cool hobby to prove you are athletic
