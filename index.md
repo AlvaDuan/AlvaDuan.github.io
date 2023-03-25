@@ -14,5 +14,5 @@ NUS
 Email: [e0431602@u.nus.edu]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+#[Yavin]: https://en.wikipedia.org/wiki/Yavin
+#[chewy@rebel.com]: mailto:chewy@rebel.com
