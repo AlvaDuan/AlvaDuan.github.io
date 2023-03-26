@@ -10,7 +10,7 @@ permalink: /Research/
   }
 </style>
 
-
+<div class="paper">
 
 ## Working Papers
 
@@ -27,4 +27,4 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 
 - **The Procyclicality of Wage Loss**
   
-
+</div>
