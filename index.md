@@ -22,7 +22,7 @@ permalink: /
 
 <div class="container">
   <div class="text">
-    I am Jie Duan, a third-year Ph.D. student in the Department of Economics at the National University of Singapore. My primary research field is Macro Labor, where I delve into the intricacies of mismatch in the labor market, striving to understand its features and characteristics.
+    I am Jie Duan, a Ph.D. candidate in the Department of Economics at the National University of Singapore. My primary research field is Macro Labor, where I delve into the intricacies of mismatch in the labor market, striving to understand its features and characteristics.
   </div>
   <div class="image">
     {% include image.html url="images/photo.jpg" caption="" width="300px" height="300px" align="center" %}
