@@ -31,9 +31,7 @@ permalink: /
 
 
 ## Contact
-Address: Department of Economics, National University of Singapore.
-
-Blk AS1, #01-02, 1 Arts Link, Singapore 117570.  
+Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.  
 
 Email: e0431602@u.nus.edu
 
