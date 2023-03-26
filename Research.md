@@ -26,8 +26,6 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 
 ## Working in Progress
 
-<div class="paper">
-
 - The Procyclicality of Skill Loss<br>
   
-</div>  
+
