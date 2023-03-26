@@ -2,7 +2,7 @@ title: Jie Duan/洁 段
 description: Much-Worse Jekyll theme for academic page and blog
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
-permalink: blog/:year/:month/:day/:title
+permalink: blog/:year/:month/:day/title
 exclude: ["Makefile", "README.md"]
 
 url: "http://AlvaDuan.github.io"     # the base hostname & protocol for your site
