@@ -22,7 +22,8 @@ permalink: /
 
 <div class="container">
   <div class="text">
-    I am Jie Duan, a Ph.D. candidate in the Department of Economics at the National University of Singapore. My primary research field is Macro Labor, where I delve into the intricacies of mismatch in the labor market, striving to understand its features and characteristics.
+  I'm Jie Duan, a Ph.D. candidate in Economics at the National University of Singapore. My primary focus is on Macro Labor, exploring the mismatch in the labor market and seeking to understand its origins and features. Additionally, I have a keen interest in (Applied) International Trade.
+    
   </div>
   <div class="image">
     {% include image.html url="images/photo.jpg" caption="" width="300px" height="300px" align="center" %}
