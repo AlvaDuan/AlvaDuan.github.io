@@ -24,7 +24,7 @@ permalink: /
   @media (max-width: 768px) {
     .text, .image {
       flex: 1 100%;
-      text-align: center;
+      text-align: justify;
       margin: 0;
     }
     .image {
