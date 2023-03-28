@@ -39,7 +39,7 @@ permalink: /
     
   </div>
   <div class="image">
-    {% include image.html url="images/photo.jpg" caption="" width="300px" height="250px" align="center" %}
+    {% include image.html url="images/photo1.jpg" caption="" width="300px" height="250px" align="center" %}
   </div>
 </div>
 
