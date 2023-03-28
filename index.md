@@ -8,6 +8,7 @@ permalink: /
   .container {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
   }
   .text {
     flex: 1;
@@ -17,6 +18,18 @@ permalink: /
   .image {
     flex: 1;
     margin-left: 10px;
+  }
+
+  /* 媒体查询，针对不同屏幕尺寸进行调整 */
+  @media (max-width: 768px) {
+    .text, .image {
+      flex: 1 100%;
+      text-align: center;
+      margin: 0;
+    }
+    .image {
+      margin-top: 20px;
+    }
   }
 </style>
 
@@ -29,6 +42,7 @@ permalink: /
     {% include image.html url="images/photo.jpg" caption="" width="300px" height="300px" align="center" %}
   </div>
 </div>
+
 
 
 ## Contact
