@@ -67,6 +67,6 @@ permalink: /
 </div>
 
 <h2 class="title">Contact</h2>
-<p>Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
+<p>Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.
 <p>Email: duanjie@u.nus.edu</p>
 
