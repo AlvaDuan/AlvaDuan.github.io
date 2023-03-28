@@ -11,6 +11,16 @@ permalink: /
     font-size: 35px;
     color: rgba(128, 128, 128, 0.8);
   }
+  
+  <style>
+  .contact-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+</style>
+  
+  
+  
   .container {
     display: flex;
     align-items: center;
@@ -55,7 +65,7 @@ permalink: /
   }
 </style>
 
-<h2 class="title">Welcome</h2>
+<h2 class="title">WELCOME</h2>
 <div class="container">
   <div class="text">
   I'm Jie Duan, a Ph.D. Candidate in the Department of Economics at the National University of Singapore. My primary focus is on Macro Labor, exploring the mismatch in the labor market and seeking to understand its origins and features. Additionally, I have a keen interest in (Applied) International Trade.
@@ -66,7 +76,7 @@ permalink: /
   </div>
 </div>
 
-<h2 class="title">Contact</h2>
-<p>Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.
-<p>Email: duanjie@u.nus.edu</p>
+<h2 class="title">CONTACT</h2>
+<p class="contact-info">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
+<p class="contact-info">Email: duanjie@u.nus.edu</p>
 
