@@ -32,11 +32,15 @@ permalink: /
     }
     .text {
       text-align: justify; /* 使手机浏览时文字两侧对齐 */
+      margin-left: 15px; /* 左侧距离屏幕10px */
+      margin-right: 15px; /* 右侧距离屏幕10px */
     }
     .image {
       margin-top: 20px;
-      width: calc(100% - 40px); /* 使照片宽度比屏幕略窄 */
+      width: calc(100% - 20px); /* 照片宽度比屏幕窄20px */
       max-width: 300px; /* 最大宽度限制 */
+      margin-left: 10px; /* 左侧距离屏幕10px */
+      margin-right: 10px; /* 右侧距离屏幕10px */
     }
     .image img {
       width: 100%;
@@ -54,6 +58,7 @@ permalink: /
     {% include image.html url="images/photo.jpg" caption="" align="center" %}
   </div>
 </div>
+
 
 
 
