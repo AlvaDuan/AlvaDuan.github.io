@@ -11,16 +11,6 @@ permalink: /
     font-size: 35px;
     color: rgba(128, 128, 128, 0.8);
   }
-  
-  <style>
-  .contact-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-  }
-</style>
-  
-  
-  
   .container {
     display: flex;
     align-items: center;
@@ -63,6 +53,11 @@ permalink: /
       height: auto;
     }
   }
+  .contact-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
 </style>
 
 <h2 class="title">WELCOME</h2>
