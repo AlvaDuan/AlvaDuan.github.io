@@ -19,13 +19,19 @@ permalink: /
     flex: 1;
     margin-left: 10px;
   }
+  .image img {
+    width: 300px;
+    height: auto;
+  }
 
   /* 媒体查询，针对不同屏幕尺寸进行调整 */
   @media (max-width: 768px) {
     .text, .image {
       flex: 1 100%;
-      text-align: justify;
       margin: 0;
+    }
+    .text {
+      text-align: justify; /* 使手机浏览时文字两侧对齐 */
     }
     .image {
       margin-top: 20px;
@@ -45,9 +51,10 @@ permalink: /
     
   </div>
   <div class="image">
-    {% include image.html url="images/photo1.jpg" caption="" align="center" %}
+    {% include image.html url="images/photo.jpg" caption="" align="center" %}
   </div>
 </div>
+
 
 
 
