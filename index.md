@@ -29,6 +29,12 @@ permalink: /
     }
     .image {
       margin-top: 20px;
+      width: calc(100% - 40px); /* 使照片宽度比屏幕略窄 */
+      max-width: 300px; /* 最大宽度限制 */
+    }
+    .image img {
+      width: 100%;
+      height: auto;
     }
   }
 </style>
@@ -39,9 +45,10 @@ permalink: /
     
   </div>
   <div class="image">
-    {% include image.html url="images/photo1.jpg" caption="" width="300px" height="250px" align="center" %}
+    {% include image.html url="images/photo1.jpg" caption="" align="center" %}
   </div>
 </div>
+
 
 
 
