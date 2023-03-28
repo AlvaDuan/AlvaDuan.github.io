@@ -8,7 +8,7 @@ permalink: /
   .title {
     font-family: 'Verdana', sans-serif;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 35px;
     color: rgba(128, 128, 128, 0.8);
   }
   .container {
