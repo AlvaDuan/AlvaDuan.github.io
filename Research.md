@@ -13,7 +13,7 @@ permalink: /Research/
 
 
   
-## Working Papers
+## WORKING PAPERS
 
 
 
@@ -31,7 +31,7 @@ Although the impact of the Internet on trade has been extensively researched, li
 <br>
 
 
-## Working in Progress
+## WORKING IN PROGRESS
 
 - **The Procyclicality of Wage Loss**
 - **Urate and Education Attainment, with [Paul Jackson](https://www.paulgjackson.com/)**
