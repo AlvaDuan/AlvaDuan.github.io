@@ -26,7 +26,7 @@ permalink: /
     margin-left: 10px;
   }
   .image img {
-    width: 300px;
+    width: 350px;
     height: auto;
   }
 
