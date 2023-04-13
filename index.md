@@ -19,14 +19,14 @@ permalink: /
   .text {
     flex: 1;
     text-align: justify;
-    margin-right: 5px;
+    margin-right: 10px;
   }
   .image {
     flex: 1;
-    margin-left: 5px;
+    margin-left: 10px;
   }
   .image img {
-    width: 360;
+    width: 360px;
     height: auto;
   }
 
