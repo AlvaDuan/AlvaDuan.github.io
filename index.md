@@ -67,7 +67,7 @@ My name is Jie Duan, and I am currently a Ph.D. Candidate in the Department of E
     
   </div>
   <div class="image">
-    {% include image.html url="images/photo1.jpg" caption="" align="center" %}
+    {% include image.html url="images/photo_life.jpg" caption="" align="center" %}
   </div>
 </div>
 
