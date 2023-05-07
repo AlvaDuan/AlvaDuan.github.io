@@ -15,7 +15,7 @@ permalink: /teaching/
 - **Teaching Year:** 2022 Spring, 2023 Spring
 - **Teaching Assistant**
 - [**Teaching Evaluation 2022**](https://jie-duan.com/files/EC6102_Teaching_Feedback(Jie).pdf)
-- [**Teaching Evaluation 2023**](https://www.dropbox.com/home/Personal_Website?preview=EC6102_Teaching_Feedback_Jie_2023.pdf), [**Student Comments (Complete)**](https://www.dropbox.com/home/Personal_Website?preview=Student_Comments_%28Complete%29_2023.pdf)
+- [**Teaching Evaluation 2023**](https://jie-duan.com/files/EC6102_Teaching_Feedback_Jie_2023.pdf), [**Student Comments (Complete)**](https://jie-duan.com/files/Student_Comments_(Complete)_2023.pdf)
 
 
 <!-- Add more courses as needed -->
