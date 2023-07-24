@@ -64,9 +64,9 @@ permalink: /
 <div class="container">
   <div class="text">
 I am a third-year Ph.D. student in the Department of Economics at National University of Singapore (NUS). <br>
-
+<br>
 My research focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market. <br>
-
+<br>
 Prior to joining NUS, I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics. 
     
   </div>
