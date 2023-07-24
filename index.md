@@ -85,7 +85,7 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
 <ul class="committee-list section">
   <li><a href="https://www.paulgjackson.com/">Paul Jackson</a> (Advisor) (NUS)</li>
   <li><a href="https://sites.google.com/view/ying-feng/home">Ying Feng</a> (NUS)</li>
-  <li><a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</a> (NUS)</li>
+  <li><a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</a> (UoT)</li>
   <!-- Add more committee members as needed -->
 </ul>
 
