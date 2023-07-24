@@ -10,7 +10,7 @@ permalink: /Research/
     font-size: 20px;
   }
   .abstract-text {
-    font-size: 18px; /* Adjust the font size as desired */
+    font-size: 18px; 
     text-align: justify;
   }
 </style>
