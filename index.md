@@ -58,6 +58,10 @@ permalink: /
     margin-bottom: 5px;
     margin-top: 5px;
   }
+  .section {
+    font-size: 20px;
+  }
+
 
 </style>
 
@@ -78,7 +82,7 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
 
     
 <h2 class="title">Committee</h2>
-<ul class="committee-list">
+<ul class="committee-list section">
   <li><a href="https://www.paulgjackson.com/">Paul Jackson</a> (Advisor)</li>
   <li><a href="https://sites.google.com/view/ying-feng/home">Ying Feng</a></li>
   <li><a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</a></li>
@@ -86,6 +90,6 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
 </ul>
 
 <h2 class="title">CONTACT</h2>
-<p class="contact-info">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
-<p class="contact-info">Email: duanjie@u.nus.edu</p>
+<p class="contact-info section">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
+<p class="contact-info section">Email: duanjie@u.nus.edu</p>
 
