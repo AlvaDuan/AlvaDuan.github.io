@@ -19,7 +19,7 @@ permalink: /Research/
   }
   .note {
     font-size: 16px;
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
   }
 </style>
