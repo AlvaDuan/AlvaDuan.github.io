@@ -63,13 +63,12 @@ permalink: /
     font-size: 20px;
   }
   .committee {
-    font-size: 18px; 
+    font-size: 20px; 
   }
 </style>
 
 
 
-</style>
 
 <h2 class="title">WELCOME</h2>
 <div class="container">
