@@ -57,10 +57,16 @@ permalink: /
   .contact-info {
     margin-bottom: 5px;
     margin-top: 5px;
+    font-size: 20px; 
   }
   .section {
     font-size: 20px;
   }
+  .committee {
+    font-size: 20px; 
+  }
+</style>
+
 
 
 </style>
@@ -80,9 +86,12 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
   </div>
 </div>
 
-<br>   
- <strong>Committee: <strong> <a href="https://www.paulgjackson.com/">Paul Jackson</a> (Advisor, NUS), <a href="https://sites.google.com/view/ying-feng/home">Ying Feng</a> (NUS), <a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</a> (UoT)
-  <!-- Add more committee members as needed -->
+<h2 class="title">Committee</h2>
+<div class="committee">
+  <strong>Committee:</strong> <a href="https://www.paulgjackson.com/">Paul Jackson</a> (Advisor, NUS), 
+  <a href="https://sites.google.com/view/ying-feng/home">Ying Feng</a> (NUS), 
+  <a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</a> (UoT)
+</div>
 
 
 <h2 class="title">CONTACT</h2>
