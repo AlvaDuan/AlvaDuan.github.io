@@ -13,6 +13,15 @@ permalink: /Research/
     font-size: 18px; 
     text-align: justify;
   }
+  .presented-at-list {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .note {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+  }
 </style>
 
 
@@ -22,7 +31,6 @@ permalink: /Research/
 ## WORKING PAPERS
 
 
-
  - **[The Underemployment Trap](https://jie-duan.com/files/DurDep.pdf), with [Paul Jackson](https://www.paulgjackson.com/)**<br>
 
 <div class="abstract-text">
@@ -30,6 +38,12 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 </div>  
 <br>
 
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+  <strong>Presented at:</strong> Curtin University<sup>*</sup>, Monash University<sup>*</sup>, National University of Singapore<sup>*</sup>, University of Aberdeen<sup>*</sup>, UC Irvine<sup>*</sup>, University of Melbourne<sup>*</sup>, 2022 Spring Midwestern Macroeconomics Meeting<sup>*</sup>, 2022 AMES Tokyo, 2022 AMES China<sup>*</sup>, 2022 Australasia Econometric Society Meeting<sup>*</sup>, 2023 Midwest Macroeconomics Meetings<sup>*</sup>, Inaugural Search and Matching Pacific in Asia-Pacific<sup>*</sup>, the $2^{nd}$ Australasian Search and Matching Workshop<sup>*</sup>, AMES Beijing, 2023 AMES Singapore (Scheduled), 2023 ESAM Sydney (Scheduled), 2023 EAEA Seoul (Scheduled)
+</div>
+
+<br>
  - **Internet Linkage and International Trade: From the Perspective of Risk Alleviation, with [Zengxi Hu](http://zengxi-hu.com/)**
 <div class="abstract-text">
 Although the impact of the Internet on trade has been extensively researched, little attention has been given to its role in mitigating risks. This study, which adopted inter-domain hyperlinks as a proxy for measuring Internet linkage in 2009, sheds light on a new channel of risk reduction that facilitates exports through the Internet. The paper first develops a gravity model that incorporates export risk to theoretically demonstrate the relationship between Internet linkage and risk. Next, the study empirically examines the positive impact of Internet linkage on exports, revealing that doubling the intensity of Internet linkage results in a 27.8% increase in exports. Additionally, the research employs multiple techniques to address potential endogeneity issues such as reverse causality, omitted variables, and time-variant factors. Finally, the study confirms the risk-alleviation mechanism of Internet linkage by showing consistent evidence at both the country-level and product-level, indicating that importers and products that are more vulnerable to risk stand to benefit the most from Internet linkage.  
@@ -41,5 +55,12 @@ Although the impact of the Internet on trade has been extensively researched, li
 
 - **The Procyclicality of Wage Loss**
 - **Urate and Education Attainment, with [Paul Jackson](https://www.paulgjackson.com/)**
+<br>
+
+<br>
+
+<div class="note">
+  Note: <sup>*</sup> presented by a co-author.
+</div>
   
 
