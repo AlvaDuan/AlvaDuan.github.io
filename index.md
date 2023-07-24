@@ -85,7 +85,7 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
   </div>
 </div>
 
-<h2 class="title">Committee</h2>
+<h2 class="title">COMMITTEE</h2>
 <div class="committee">
   <strong>Committee:</strong> <a href="https://www.paulgjackson.com/">Paul Jackson</a> (Advisor, NUS), 
   <a href="https://sites.google.com/view/ying-feng/home">Ying Feng</a> (NUS), 
