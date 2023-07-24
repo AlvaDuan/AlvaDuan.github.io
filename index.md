@@ -69,7 +69,13 @@ I am a third-year Ph.D. student in the Department of Economics at National Unive
 My research focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market. <br>
 <br>
 Prior to joining NUS, I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics. <br>
-<br>
+
+  </div>
+  <div class="image">
+    {% include image.html url="images/photolife.jpg" caption="" align="center" %}
+  </div>
+</div>
+
     
 <h2 class="title">Committee</h2>
 <ul class="committee-list">
@@ -78,13 +84,6 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
   <li><a href="http://individual.utoronto.ca/wolthoff/">Ronald Wolthoff</li>
   <!-- Add more committee members as needed -->
 </ul>
-
-    
-  </div>
-  <div class="image">
-    {% include image.html url="images/photolife.jpg" caption="" align="center" %}
-  </div>
-</div>
 
 <h2 class="title">CONTACT</h2>
 <p class="contact-info">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
