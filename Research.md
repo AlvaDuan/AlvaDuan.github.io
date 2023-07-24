@@ -7,6 +7,7 @@ permalink: /Research/
 <style>
   .paper {
     text-align: justify;
+    font-size: 20px;
   }
 </style>
 
