@@ -19,7 +19,7 @@ permalink: /
   .text {
     flex: 1;
     text-align: justify;
-    font-size: 25px;
+    font-size: 20px;
     margin-right: 5px;
   }
   .image {
