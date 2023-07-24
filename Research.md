@@ -14,7 +14,7 @@ permalink: /Research/
     text-align: justify;
   }
   .presented-at-list {
-    font-size: 12px;
+    font-size: 16px;
     text-align: justify;
   }
   .note {
