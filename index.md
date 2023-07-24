@@ -63,7 +63,7 @@ permalink: /
     font-size: 20px;
   }
   .committee {
-    font-size: 20px; 
+    font-size: 18px; 
   }
 </style>
 
