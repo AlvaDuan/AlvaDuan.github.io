@@ -63,7 +63,11 @@ permalink: /
 <h2 class="title">WELCOME</h2>
 <div class="container">
   <div class="text">
-My name is Jie Duan, and I am currently a Ph.D. Candidate in the Department of Economics at the National University of Singapore (NUS). My research primarily focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market.
+I am a fouth-year Ph.D. student in the Department of Economics at National University of Singapore (NUS). 
+    
+My research focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market.
+
+Prior to joining NUS, I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics. 
     
   </div>
   <div class="image">
