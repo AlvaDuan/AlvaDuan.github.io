@@ -11,6 +11,7 @@ permalink: /Research/
   }
   .abstract-text {
     font-size: 18px; /* Adjust the font size as desired */
+    text-align: justify;
   }
 </style>
 
