@@ -79,7 +79,7 @@ My research focuses on Macro Labor, where I study the mismatch in the labor mark
 <br>
 Prior to joining NUS, I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics. <br>
 <br>
-<p>Here is my <a href="https://jie-duan.com/files/CV_JieDuan.pdf">CV</a>.</p>
+<p>Here is my <a href="https://jie-duan.com/files/CV_JIEDUAN.pdf">CV</a>.</p>
 
   </div>
   <div class="image">
