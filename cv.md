@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 <a href="https://jie-duan.com/files/CV_JIEDUAN.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Download CV</a>
