@@ -33,7 +33,7 @@ permalink: /Research/
 <div class="paper">
   
  - **[The Underemployment Trap](https://jie-duan.com/files/DurDep.pdf), with [Paul Jackson](https://www.paulgjackson.com/)**<br>
- 
+
 </div>
   
 <div class="abstract-text">
