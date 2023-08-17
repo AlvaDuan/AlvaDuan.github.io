@@ -7,7 +7,7 @@ permalink: /Research/
 <style>
   .paper {
     text-align: justify;
-    font-size: 18px;
+    font-size: 19px;
   }
   .abstract-text {
     font-size: 18px; 
