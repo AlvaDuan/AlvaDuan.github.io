@@ -83,7 +83,7 @@ Prior to joining NUS, I obained my master's degree in Economics from London Scho
 
   </div>
   <div class="image">
-    {% include image.html url="images/photolife.jpg" caption="" align="center" %}
+    {% include image.html url="images/Sydney.JPG" caption="" align="center" %}
   </div>
 </div>
 
