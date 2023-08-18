@@ -27,7 +27,7 @@ permalink: /
     margin-left: 5px;
   }
   .image img {
-    width: 370px;
+    width: 400px;
     height: auto;
   }
 
@@ -43,7 +43,7 @@ permalink: /
       margin-right: 15px; /* 右侧距离屏幕10px */
     }
     .image {
-      margin-top: 20px;
+      margin-top: 10px;
       width: calc(100% - 20px); /* 照片宽度比屏幕窄20px */
       max-width: 300px; /* 最大宽度限制 */
       margin-left: 10px; /* 左侧距离屏幕10px */
