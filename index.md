@@ -27,7 +27,7 @@ permalink: /
     margin-left: 5px;
   }
   .image img {
-    width: 500px;
+    width: 510px;
     height: auto;
   }
 
