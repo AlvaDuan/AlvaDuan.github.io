@@ -43,7 +43,7 @@ permalink: /
       margin-right: 15px; /* 右侧距离屏幕10px */
     }
     .image {
-      margin-top: 10px;
+      margin-top: 0px;
       width: calc(100% - 20px); /* 照片宽度比屏幕窄20px */
       max-width: 300px; /* 最大宽度限制 */
       margin-left: 10px; /* 左侧距离屏幕10px */
