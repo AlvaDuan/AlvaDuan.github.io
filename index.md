@@ -74,7 +74,7 @@ permalink: /
 <h2 class="title">WELCOME</h2>
 <div class="container">
   <div class="text">
-I am a fourth-year Ph.D. student in the Department of Economics at National University of Singapore (NUS), with an expected graduation year of 2025. <br>
+I am in my fourth year as a doctoral candidate in the Department of Economics at the National University of Singapore (NUS), with an anticipated graduation in 2025. <br>
 <br>
 My research focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market. <br>
 <br>
