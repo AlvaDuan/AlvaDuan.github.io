@@ -62,5 +62,9 @@ Although the impact of the Internet on trade has been extensively researched, li
 <div class="note">
   Note: <sup>*</sup> presented by a co-author.
 </div>
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+  <strong>Presented at:</strong> NUS Macro Brownbag
+</div>
   
 
