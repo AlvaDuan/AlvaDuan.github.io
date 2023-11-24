@@ -52,7 +52,7 @@ Although the impact of the Internet on trade has been extensively researched, li
 <br>
 
 
-## WORKING IN PROGRESS
+## (Selected) Work in Progress
 
 - **The Procyclicality of Wage Loss from Skill Mismatch**
 <!-- Add "Presentation" information -->
