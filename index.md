@@ -46,7 +46,7 @@ permalink: /
     .image {
       margin-top: 10px;
       width: calc(100% - 20px); /* 照片宽度比屏幕窄20px */
-      max-width: 300px; /* 最大宽度限制 */
+      max-width: 285px; /* 最大宽度限制 */
       margin-left: 10px; /* 左侧距离屏幕10px */
       margin-right: 10px; /* 右侧距离屏幕10px */
     }
