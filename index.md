@@ -51,7 +51,7 @@ permalink: /
       margin-right: 10px; /* 右侧距离屏幕10px */
     }
     .image img {
-      width: 100%;
+      width: 90%;
       height: auto;
     }
   }
