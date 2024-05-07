@@ -8,4 +8,4 @@ permalink: /cv/
 
 <!--[Download CV](https://www.dropbox.com/s/yo22ne8o7jvvtwx/CV_JIEDUAN.pdf?dl=0) -->
 
-{% include embedpdf.html source="https://jie-duan.com/files/CV_JIEDUAN.pdf" width=100 height=800 %}
+{% include embedpdf.html source="https://jie-duan.com/files/CV_JMC.pdf" width=100 height=800 %}
