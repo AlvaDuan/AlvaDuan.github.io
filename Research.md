@@ -45,7 +45,7 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 <br>
 
   
-- <strong class="paper">Internet Linkage and International Trade: From the Perspective of Risk Alleviation, with Zengxi Hu, Revise and Resubmit, The World Economy. </strong>
+- <strong class="paper">Internet Linkage and International Trade: From the Perspective of Risk Alleviation, with Zengxi Hu, Accepted by The World Economy. </strong>
 
 <div class="abstract-text">
 Extensive research has studied the effect of the Internet on trade, yet little is known about its role in trade facilitation through risk alleviation. This research investigates the facilitation of Internet linkage on export, particularly through the novel channel of risk alleviation. Theoretically, this paper introduces a gravity model augmented with export risk to establish the stimulus of Internet linkage on exports. Empirically, this paper uses inter-domain hyperlinks as a proxy for Internet linkage in 2009, uncovering a statistically significant positive impact of Internet linkage on exports. Notably, there is a 27.8% increase in exports in reaction to a doubling of the Internet linkage intensity. By employing various techniques, we meticulously address potential endogeneity issues and substantiate the risk-alleviation mechanism at both the country and product levels. Particularly, we find that exports to riskier countries and of riskier products benefit more from the Internet linkage. This study sheds new light on the novel channel through which the Internet promotes exports, enriching the existing literature in this field.  
