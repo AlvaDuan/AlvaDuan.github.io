@@ -71,10 +71,10 @@ permalink: /
 
 
 
-<h2 class="title">WELCOME</h2>
+<h2 class="title">ABOUT ME</h2>
 <div class="container">
   <div class="text">
-Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore (NUS). Prior to joining NUS, I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics.  <br>
+Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore (NUS), with an expected graduate date of June 2025. I obained my master's degree in Economics from London School of Economics, and my bachelor's degree in Economics from Central University of Finance and Economics.  <br>
 <br>
 My research focuses on Macro Labor, where I study the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market. <br>
 <br>
@@ -98,5 +98,5 @@ I will be on the 2024/25 academic job market. Here is my <a href="https://jie-du
 
 <h2 class="title">CONTACT</h2>
 <p class="contact-info section">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
-<p class="contact-info section">Email: duanjie@u.nus.edu</p>
+<p class="contact-info section">Email: <a href="mailto:duanjie@u.nus.edu">duanjie@u.nus.edu</a></p>
 
