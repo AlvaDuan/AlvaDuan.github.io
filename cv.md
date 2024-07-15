@@ -14,5 +14,8 @@ permalink: /cv/
   <i class="fas fa-file-pdf"></i> Download CV
 </a>
 
-<!-- 使用Google Docs查看器嵌入PDF -->
 <iframe src="https://docs.google.com/viewer?url=https://jie-duan.com/files/CV_JMC.pdf&embedded=true" width="100%" height="800px" style="border: none;"></iframe>
+
+<!-- 使用Google Docs查看器嵌入PDF 
+<iframe src="https://docs.google.com/viewer?url=https://jie-duan.com/files/CV_JMC.pdf&embedded=true" width="100%" height="800px" style="border: none;"></iframe>
+-->
