@@ -8,23 +8,27 @@ permalink: /Research/
   .paper {
     text-align: justify;
     font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px; /* Adjust this value to control the spacing */
   }
   .abstract-text {
     font-size: 18px; 
     text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 10px; /* Adjust this value to control the spacing */
   }
   .presented-at-list {
     font-size: 16px;
     text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 20px; /* Adjust this value to control the spacing */
   }
   .note {
     font-size: 16px;
-    text-align: left;
+    text-align: justify;
     margin-top: 20px;
   }
 </style>
-
-
 
 
   
@@ -43,8 +47,6 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 <div class="presented-at-list">
   <strong>Presented at:</strong> ICCDS, SWUFE, 2023 OzMac Workshop, 2023 AMES Beijing, 2023 AMES Singapore, 2023 ESAM Sydney, 2022 AMES Tokyo, Curtin University<sup>*</sup>, Monash University<sup>*</sup>, National University of Singapore<sup>*</sup>, University of Aberdeen<sup>*</sup>, UC Irvine<sup>*</sup>, University of Melbourne<sup>*</sup>, 2022 Spring Midwestern Macroeconomics Meeting<sup>*</sup>, 2022 AMES China<sup>*</sup>, 2022 Australasia Econometric Society Meeting<sup>*</sup>, 2023 Midwest Macroeconomics Meetings<sup>*</sup>, Inaugural Search and Matching Pacific in Asia-Pacific<sup>*</sup>, the 2<sup>nd</sup> Australasian Search and Matching Workshop<sup>*</sup>.
 </div>
-
-<br>
 
   
 - <strong class="paper">**[Internet Linkage and International Trade: From the Perspective of Risk Alleviation](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, Accept at The World Economy, 2024.**<br>
