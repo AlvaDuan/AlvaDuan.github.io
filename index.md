@@ -80,11 +80,12 @@ My research focuses on the mismatch in the labor market and aim to identify its 
 <br>
 
 <strong>Research Fields:</strong>
-<ul style="padding: 0; margin: 0; list-style: none;">
-  <li style="display: inline-block; margin-right: 15px;">Macro Labor</li>
-  <li style="display: inline-block;">International Trade</li>
+<ul style="list-style-type: disc; padding: 0; margin: 0;">
+  <li style="display: inline; margin-right: 15px;">Macro Labor</li>
+  <li style="display: inline;">International Trade</li>
 </ul>
 
+<br>
 I will be on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf"><u>CV</u></a>.
   </div>
   <div class="image">
