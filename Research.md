@@ -68,7 +68,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 - <strong class="paper">On the Unemployment-Education Gap, with [Paul Jackson](https://www.paulgjackson.com/) and [Lichen Zhang](https://lichenzhang.weebly.com/) </strong>
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-  <strong>Presented at:</strong> AMES2024(Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024(Hangzhou), NUS Macro Brownbag<sup>*</sup>, PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+  <strong>Presented at:</strong> ESEM2024<sup>*</sup>, AMES2024(Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024(Hangzhou), NUS Macro Brownbag<sup>*</sup>, PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
 
