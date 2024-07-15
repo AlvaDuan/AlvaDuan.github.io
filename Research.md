@@ -5,6 +5,10 @@ permalink: /Research/
 ---
 
 <style>
+   .page-title {
+    margin-top: 0px; /* Adjust this value to move the title up */
+    padding-top: 0px; /* Adjust this value to move the title up */
+  }
   .paper {
     text-align: justify;
     font-size: 20px;
@@ -31,7 +35,13 @@ permalink: /Research/
 </style>
 
 
+<div class="page-title">
 ## PUBLICATIONS
+</div>
+
+<!--
+## PUBLICATIONS
+-->
 
  
  - <strong class="paper"> **The Underemployment Trap, with [Paul Jackson](https://www.paulgjackson.com/), Accept at Journal of Monetary Economics, 2024.** [[Working Paper](https://jie-duan.com/files/DurDep_Main.pdf)], [[Supplementary Materials](https://jie-duan.com/files/DurDep_Supp.pdf)]</strong>
