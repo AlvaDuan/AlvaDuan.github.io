@@ -74,7 +74,7 @@ permalink: /
 <h2 class="title">ABOUT ME</h2>
 <div class="container">
   <div class="text">
-Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore (NUS), with an expected graduate date of June 2025. I obtained my master's degree in Economics from London School of Economics (LSE), and bachelor's degree in Economics from Central University of Finance and Economics (CUFE).  <br>
+Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025. I obtained my master's degree in Economics from London School of Economics, and bachelor's degree in Economics from Central University of Finance and Economics.  <br>
 <br>
 My research focuses on the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities. <br>
 <br>
