@@ -79,11 +79,7 @@ Welcome to my website! I am a Ph.D. candidate in the Department of Economics at 
 My research focuses on the mismatch in the labor market and aim to identify its origins and features. Furthermore, I am also passionate about investigating the heterogeneities of employment stabilities in the labor market. <br>
 <br>
 
-<strong>Research Fields:</strong>
-<ul style="list-style-type: disc; padding: 0; margin: 0;">
-  <li style="display: inline; margin-right: 15px;">Macro Labor</li>
-  <li style="display: inline;">International Trade</li>
-</ul>
+<strong>Research Fields:</strong> Macro Labor; International Trade
 
 <br>
 I will be on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf"><u>CV</u></a>.
