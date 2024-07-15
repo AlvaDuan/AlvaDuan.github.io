@@ -33,7 +33,8 @@ permalink: /Research/
     margin-top: 10px;
   }
   .journal {
-    font-weight: bold;
+    font-weight: 900;
+     font-style: italic;
   }
 </style>
 
