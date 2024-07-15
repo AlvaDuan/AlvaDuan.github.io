@@ -41,7 +41,7 @@ permalink: /Research/
 ## PUBLICATIONS
 
  - <strong class="paper"> **The Underemployment Trap, with <a href="https://www.paulgjackson.com/">Paul Jackson</a>, Accept at <span class="journal">Journal of Monetary Economics</span>, 2024.** <br>
- [[Working Paper](https://jie-duan.com/files/DurDep_Main.pdf)][[Supplementary Materials](https://jie-duan.com/files/DurDep_Supp.pdf)]</strong>
+ [[Working Paper](https://jie-duan.com/files/DurDep_Main.pdf)], [[Supplementary Materials](https://jie-duan.com/files/DurDep_Supp.pdf)]</strong>
 
 
 
