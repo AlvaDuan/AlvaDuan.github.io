@@ -41,7 +41,7 @@ permalink: /Research/
 
 ## PUBLICATIONS
 
- - <strong class="paper"> **The Underemployment Trap, with <a href="https://www.paulgjackson.com/">Paul Jackson</a>, Accept at <span class="journal">Journal of Monetary Economics</span>, 2024.** <br>
+ - <strong class="paper"> **The Underemployment Trap, with <a href="https://www.paulgjackson.com/">Paul Jackson</a>, Accept at <u><em>Journal of Monetary Economics</em></u>, 2024.** <br>
  [[Working Paper](https://jie-duan.com/files/DurDep_Main.pdf)], [[Supplementary Materials](https://jie-duan.com/files/DurDep_Supp.pdf)]</strong>
 
 
@@ -56,7 +56,7 @@ Many college graduates are underemployed, i.e., work in occupations that do not 
 </div>
 
   
-- <strong class="paper">**[Internet Linkage and International Trade: From the Perspective of Risk Alleviation](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, Accept at <strong>The World Economy</strong>, 2024.**<br>
+- <strong class="paper">**[Internet Linkage and International Trade: From the Perspective of Risk Alleviation](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, Accept at <u><em>The World Economy</em></u>, 2024.**<br>
   [[Working Paper](https://jie-duan.com/files/InternetTrade.pdf)]</strong>
 
 
