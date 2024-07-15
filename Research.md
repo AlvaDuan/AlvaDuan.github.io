@@ -14,19 +14,19 @@ permalink: /Research/
   .abstract-text {
     font-size: 18px; 
     text-align: justify;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px; /* Adjust this value to control the spacing */
   }
   .presented-at-list {
     font-size: 16px;
     text-align: justify;
     margin-top: 10px;
-    margin-bottom: 20px; /* Adjust this value to control the spacing */
+    margin-bottom: 10px; /* Adjust this value to control the spacing */
   }
   .note {
     font-size: 16px;
     text-align: justify;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 </style>
 
