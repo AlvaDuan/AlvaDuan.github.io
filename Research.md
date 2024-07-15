@@ -20,7 +20,7 @@ permalink: /Research/
   .presented-at-list {
     font-size: 16px;
     text-align: justify;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 20px; /* Adjust this value to control the spacing */
   }
   .note {
