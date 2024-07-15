@@ -98,6 +98,6 @@ I will be on the 2024/25 academic job market. Here is my <a href="https://jie-du
 
 
 <h2 class="title">CONTACT</h2>
-<p class="contact-info section">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
-<p class="contact-info section">Email: <a href="mailto:duanjie@u.nus.edu">duanjie@u.nus.edu</a></p>
+<p class="contact-info section" style="margin-bottom: 0;">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
+<p class="contact-info section" style="margin-top: 0;">Email: <a href="mailto:duanjie@u.nus.edu">duanjie@u.nus.edu</a></p>
 
