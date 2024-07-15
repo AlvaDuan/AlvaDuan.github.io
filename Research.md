@@ -21,7 +21,7 @@ permalink: /Research/
     font-size: 16px;
     text-align: justify;
     margin-top: 10px;
-    margin-bottom: 10px; /* Adjust this value to control the spacing */
+    margin-bottom: 20px; /* Adjust this value to control the spacing */
   }
   .note {
     font-size: 16px;
