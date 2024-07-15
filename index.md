@@ -56,8 +56,8 @@ permalink: /
     }
   }
   .contact-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     font-size: 20px; 
   }
   .section {
