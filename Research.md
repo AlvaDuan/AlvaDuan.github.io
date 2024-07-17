@@ -36,6 +36,9 @@ permalink: /Research/
     font-weight: 900;
      font-style: italic;
   }
+     h2 {
+    font-size: 22px; /* Adjust this value to your preferred size */
+  }
 </style>
 
 
