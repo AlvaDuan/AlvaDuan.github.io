@@ -37,7 +37,7 @@ permalink: /Research/
      font-style: italic;
   }
      h2 {
-    font-size: 25px; /* Adjust this value to your preferred size */
+    font-size: 30px; /* Adjust this value to your preferred size */
   }
 </style>
 
