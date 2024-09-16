@@ -87,7 +87,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## (SELECTED) WORK IN PROGRESS
 
-- <strong class="paper">The Procyclicality of Wage Loss from Skill Mismatch </strong>
+- <strong class="paper">The Procyclicality of Wage Loss from Skill Mismatch </strong> <em>[Draft Coming Soon]</em>
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
   <strong>Presented at:</strong> NUS Macro Brownbag
