@@ -44,8 +44,13 @@ permalink: /Research/
 ## JOB MARKET PAPER
 
 <div class="paper">
-    <strong>Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> and <a href="https://lichenzhang.weebly.com/" target="_blank">Lichen Zhang</a> <em>[Draft Coming Soon]</em>
+   <ul>
+      <li>
+         <strong>Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> and <a href="https://lichenzhang.weebly.com/" target="_blank">Lichen Zhang</a> <em>[Draft Coming Soon]</em>
+      </li>
+   </ul>
 </div>
+
 
 <div class="abstract-text">
     We document that college graduates form more accurate expectations about their future occupation and provide additional evidence supporting an uncertainty channel, i.e., that college graduates begin their career with less uncertainty regarding their best fit in the labor market. To quantify the uncertainty channel, we develop a life cycle directed search model where workers sample careers to learn about their best fit in the labor market. A quantitative analysis indicates that the uncertainty channel can explain at least 23.83% of the gap in unemployment rates between college and non-college workers.
@@ -87,7 +92,11 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## (SELECTED) WORK IN PROGRESS
 <div class="paper">
+      <ul>
+      <li>
     <strong>The Procyclicality of Wage Loss from Skill Mismatch </strong> <em>[Draft Coming Soon]</em>
+     </li>
+   </ul>
 </div>
 
 <!-- Add "Presentation" information -->
