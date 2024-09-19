@@ -58,7 +58,7 @@ permalink: /Research/
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong> ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag<sup>*</sup>, PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+    <strong>Presented at:</strong> ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag, PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
 
