@@ -46,7 +46,7 @@ permalink: /Research/
 <div class="paper">
    <ul>
       <li>
-         <strong>Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> and <a href="https://lichenzhang.weebly.com/" target="_blank">Lichen Zhang</a> <em>[Draft Coming Soon]</em>
+         <strong>Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> <em>[Draft Coming Soon]</em>
       </li>
    </ul>
 </div>
