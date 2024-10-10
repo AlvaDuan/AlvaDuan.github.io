@@ -100,7 +100,6 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 <div class="presented-at-list">
   <strong>Presented at:</strong> NUS Macro Brownbag
 </div>
-   <br>
        <ul>
   <li>
       <strong>Uncertainty, Learning, and the College Premium</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> (NUS)
