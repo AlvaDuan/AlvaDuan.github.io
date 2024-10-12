@@ -102,7 +102,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 </div>
        <ul>
   <li>
-      <strong>Uncertainty, Learning, and the College Premium</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> (NUS)
+      <strong>Lifelong Gains from a Strong Start: Early Career Fit, Learning, and the College Wage Premium</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> (NUS)
     </li>
              </ul>
 </div>   
