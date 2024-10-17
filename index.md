@@ -82,7 +82,8 @@ My research focuses on the mismatch in the frictional labor market and aim to id
 <strong>Research Fields:</strong> Macro Labor; International Trade<br>
 
 <br>
-I will be on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf"><u>CV</u></a>.
+I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
+
   </div>
   <div class="image">
     {% include image.html url="images/official_photo.jpg" caption="" align="center" %}
