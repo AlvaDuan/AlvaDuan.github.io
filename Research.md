@@ -82,8 +82,9 @@ permalink: /Research/
 </div>
 
   
-- <strong class="paper">**[Internet Linkage and International Trade: From the Perspective of Risk Alleviation](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, <em>The World Economy</em>, 2024, 47, 3551–3577.**
-  [[Working Paper](https://jie-duan.com/files/InternetTrade.pdf)]</strong>
+- <strong class="paper">**[<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600" target="_blank" rel="noopener noreferrer">Internet Linkage and International Trade: From the Perspective of Risk Alleviation</a>](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, <em>The World Economy</em>, 2024, 47, 3551–3577.**
+  [<a href="https://jie-duan.com/files/InternetTrade.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a>]</strong>
+
 
 
 <div class="abstract-text">
