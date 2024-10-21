@@ -96,7 +96,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 <div class="paper">
       <ul>
       <li>
-    <strong>Pro-cyclical Wage Losses from Skill Mismatch </strong> <em>[Draft Coming Soon]</em>
+    <strong>Procyclical Wage Losses from Skill Mismatch </strong> <em>[Draft Coming Soon]</em>
      </li>
    </ul>
 <div class="presented-at-list">
