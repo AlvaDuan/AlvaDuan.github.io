@@ -104,12 +104,6 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 </div>
 </div>   
 
-
-<br>
-
-
-
-
 ## (SELECTED) WORK IN PROGRESS
 <div class="paper">
        <ul>
