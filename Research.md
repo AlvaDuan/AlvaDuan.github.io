@@ -91,7 +91,7 @@ permalink: /Research/
 Extensive research has studied the effect of the Internet on trade, yet little is known about its role in trade facilitation through risk alleviation. This research investigates how internet linkage facilitates exports, particularly through the novel channel of risk alleviation. Theoretically, this paper introduces a gravity model augmented with export risk to establish the stimulating effect of internet linkage on exports. Empirically, this paper uses inter-domain hyperlinks as a proxy for Internet linkage in 2009, uncovering a statistically significant positive impact of Internet linkage on exports. Notably, there is a 27.8% increase in exports in reaction to a doubling of the Internet linkage intensity. By employing various techniques, we meticulously address potential endogeneity issues and substantiate the risk-alleviation mechanism at both the country and product levels. Particularly, we find that exports to riskier countries and of riskier products benefit more from Internet linkage. This study sheds new light on the novel channel through which the Internet promotes exports, enriching the existing literature in this field. 
 </div>  
 
-## WORKING PAPERS
+## WORKING PAPER
 
 <div class="paper">
       <ul>
