@@ -76,7 +76,7 @@ permalink: /
   <div class="text">
 Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025. I obtained my master's degree in Economics from London School of Economics, and bachelor's degree in Economics from Central University of Finance and Economics.  <br>
 <br>
-My research focuses on the mismatch in the frictional labor market and aim to identify its sources and features. <br>
+My research studies the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
 
 <strong>Research Fields:</strong> Macro Labor; International Trade<br>
