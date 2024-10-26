@@ -96,9 +96,12 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 <div class="paper">
       <ul>
       <li>
-    <strong>Procyclical Wage Losses from Skill Mismatch </strong> <em>[Draft Coming Soon]</em>
+      <a href="https://jie-duan.com/files/ProcyclicalityWageLosses.pdf" target="_blank"><strong>Procyclical Wage Losses from Skill Mismatch </strong></a>
      </li>
    </ul>
+   <div class="abstract-text">
+   This paper investigates the cyclicality of wage losses from skill mismatch and the underlying mechanisms. Using the NLSY97, I find that wage losses due to skill mismatch are procyclical, with a one percentage point increase in the unemployment rate leading to a 1.3% reduction in wage losses, equivalent to a 14.6% recovery. I document that this effect is more pronounced in industries and occupations with higher training incidence, and that training provision is procyclical. To explain these findings, I develop a directed search model with skill mismatch and endogenous training that encompasses a productivity and training channel. The model demonstrates that declines in labor productivity and reduced training during recessions interact to reduce wage losses from skill mismatch. 
+</div>
 <div class="presented-at-list">
   <strong>Presented at:</strong> NUS Macro Brownbag
 </div>
