@@ -100,13 +100,14 @@ Extensive research has studied the effect of the Internet on trade, yet little i
   
 
 ## (SELECTED) WORK IN PROGRESS
-<div class="paper">
-<ul>
-  <li>
-      <strong>Lifelong Gains from a Strong Start: Early Career Fit, Learning, and the College Wage Premium</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> (NUS)
-    </li>
-    </ul>
-</div>   
+- <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit, Learning, and the College Wage Premium, with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS).** 
+  <br>
+</strong>
+
+- <strong class="paper"> **Job Search in China's Labor Market, with <a href="https://yizhengu.weebly.com/" target="_blank" rel="noopener noreferrer">Yizhen Gu</a> (PHBS, PKU), <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS), and <a href="https://sites.google.com/site/oo7zsx/" target="_blank" rel="noopener noreferrer">Shengxing Zhang</a> (CMU).** 
+  <br>
+</strong> 
+
 
 
 <br>
