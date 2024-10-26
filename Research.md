@@ -97,7 +97,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 <div class="presented-at-list">
   <strong>Presented at:</strong> NUS Macro Brownbag
 </div>
-</div>   
+  
 
 ## (SELECTED) WORK IN PROGRESS
 <div class="paper">
