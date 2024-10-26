@@ -104,7 +104,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 </strong>
 
 - <strong class="paper"> **Job Search in China's Labor Market, with <a href="https://yizhengu.weebly.com/" target="_blank" rel="noopener noreferrer">Yizhen Gu</a> (PHBS, PKU), <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS), and <a href="https://sites.google.com/site/oo7zsx/" target="_blank" rel="noopener noreferrer">Shengxing Zhang</a> (CMU).** 
-</strong> 
+</strong>
 
 
 
