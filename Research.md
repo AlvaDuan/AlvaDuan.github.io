@@ -43,13 +43,10 @@ permalink: /Research/
 
 ## JOB MARKET PAPER
 
-<div class="paper">
-   <ul>
-      <li>
-        <a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank"><strong>Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</strong></a>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a>
-      </li>
-   </ul>
-</div>
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>.** 
+  <br>
+</strong>
+
 
 
 <div class="abstract-text">
@@ -74,9 +71,6 @@ permalink: /Research/
 </div>  
 
 
-
-<!-- Add "Presentation" information -->
-
 <div class="presented-at-list">
   <strong>Presented at:</strong> SUFE, ICCDS2024, SWUFE, 2023 OzMac Workshop, 2023 AMES Beijing, 2023 AMES Singapore, 2023 ESAM Sydney, 2022 AMES Tokyo, Curtin University<sup>*</sup>, Monash University<sup>*</sup>, National University of Singapore<sup>*</sup>, University of Aberdeen<sup>*</sup>, UC Irvine<sup>*</sup>, University of Melbourne<sup>*</sup>, 2022 Spring Midwestern Macroeconomics Meeting<sup>*</sup>, 2022 AMES China<sup>*</sup>, 2022 Australasia Econometric Society Meeting<sup>*</sup>, 2023 Midwest Macroeconomics Meetings<sup>*</sup>, Inaugural Search and Matching Pacific in Asia-Pacific<sup>*</sup>, the 2<sup>nd</sup> Australasian Search and Matching Workshop<sup>*</sup>.
 </div>
@@ -93,13 +87,11 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## WORKING PAPER
 
-<div class="paper">
-      <ul>
-      <li>
-      <a href="https://jie-duan.com/files/ProcyclicalityWageLosses.pdf" target="_blank"><strong>Procyclical Wage Losses from Skill Mismatch </strong></a>
-     </li>
-   </ul>
-   <div class="abstract-text">
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/ProcyclicalityWageLosses.pdf" target="_blank" rel="noopener noreferrer">Procyclical Wage Losses from Skill Mismatch</a>](https://jie-duan.com/files/ProcyclicalityWageLosses.pdf)** 
+  <br>
+</strong>
+
+<div class="abstract-text">
    This paper investigates the cyclicality of wage losses from skill mismatch and the underlying mechanisms. Using the NLSY97, I find that wage losses due to skill mismatch are procyclical, with a one percentage point increase in the unemployment rate leading to a 1.3% reduction in wage losses, equivalent to a 14.6% recovery. I document that this effect is more pronounced in industries and occupations with higher training incidence, and that training provision is procyclical. To explain these findings, I develop a directed search model with skill mismatch and endogenous training that encompasses a productivity and training channel. The model demonstrates that declines in labor productivity and reduced training during recessions interact to reduce wage losses from skill mismatch. 
 </div>
 <div class="presented-at-list">
@@ -109,11 +101,11 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## (SELECTED) WORK IN PROGRESS
 <div class="paper">
-       <ul>
+<ul>
   <li>
       <strong>Lifelong Gains from a Strong Start: Early Career Fit, Learning, and the College Wage Premium</strong>, with <a href="https://www.paulgjackson.com/" target="_blank">Paul Jackson</a> (NUS)
     </li>
-             </ul>
+    </ul>
 </div>   
 
 
