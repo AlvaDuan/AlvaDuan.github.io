@@ -43,7 +43,7 @@ permalink: /Research/
 
 ## JOB MARKET PAPER
 
-- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>.** 
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, <em>Under review</em>** 
   <br>
 </strong>
 
