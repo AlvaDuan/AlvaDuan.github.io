@@ -55,7 +55,7 @@ permalink: /Research/
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong> ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+    <strong>Presented at:</strong> Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
 
