@@ -41,23 +41,7 @@ permalink: /Research/
   }
 </style>
 
-## JOB MARKET PAPER
-
-- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, <em>Under Review</em>** 
-  <br>
-</strong>
-
-
-
-<div class="abstract-text">
-   We document that college graduates predict their future occupation more accurately than those without a college degree. Based on this fact and additional evidence, we hypothesize that college graduates start their career with less uncertainty regarding their best fit in the labor market. We refer to this difference by education as the uncertainty channel. To quantify the uncertainty channel, we develop a life cycle search model where workers learn their best fit by sampling careers. A quantitative decomposition places a lower bound on the uncertainty channel's contribution to the gap in unemployment rates between college and non-college workers at 24%. 
-</div>
-
-<!-- Add "Presentation" information -->
-<div class="presented-at-list">
-    <strong>Presented at:</strong> Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
-</div>
-
+/* ## JOB MARKET PAPER */
 
 
 ## PUBLICATIONS
@@ -86,6 +70,22 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 </div>  
 
 ## WORKING PAPER
+
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, <em>Under Review</em>** 
+  <br>
+</strong>
+
+
+
+<div class="abstract-text">
+   We document that college graduates predict their future occupation more accurately than those without a college degree. Based on this fact and additional evidence, we hypothesize that college graduates start their career with less uncertainty regarding their best fit in the labor market. We refer to this difference by education as the uncertainty channel. To quantify the uncertainty channel, we develop a life cycle search model where workers learn their best fit by sampling careers. A quantitative decomposition places a lower bound on the uncertainty channel's contribution to the gap in unemployment rates between college and non-college workers at 24%. 
+</div>
+
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+    <strong>Presented at:</strong> Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+</div>
+
 
 - <strong class="paper"> **[<a href="https://jie-duan.com/files/ProcyclicalityWageLosses.pdf" target="_blank" rel="noopener noreferrer">Procyclical Wage Losses from Skill Mismatch</a>](https://jie-duan.com/files/ProcyclicalityWageLosses.pdf)** 
   <br>
