@@ -41,8 +41,6 @@ permalink: /Research/
   }
 </style>
 
-/* ## JOB MARKET PAPER */
-
 
 ## PUBLICATIONS
 
