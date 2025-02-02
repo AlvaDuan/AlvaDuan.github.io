@@ -90,12 +90,14 @@ I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.co
   </div>
 </div>
 
+<!--
 <h2 class="title">COMMITTEE</h2>
 <div class="committee">
   <strong>Committee:</strong> <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (Advisor, NUS), 
   <a href="https://sites.google.com/view/ying-feng/home" target="_blank" rel="noopener noreferrer">Ying Feng</a> (NUS), 
   <a href="http://individual.utoronto.ca/wolthoff/" target="_blank" rel="noopener noreferrer">Ronald Wolthoff</a> (UoT)
 </div>
+--!>
 
 
 <h2 class="title">CONTACT</h2>
