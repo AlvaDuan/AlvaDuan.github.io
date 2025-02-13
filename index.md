@@ -76,12 +76,13 @@ permalink: /
   <div class="text">
 Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025. I obtained my master's degree in Economics from London School of Economics, and bachelor's degree in Economics from Central University of Finance and Economics.  <br>
 <br>
-My research studies the sources and aggregate implications of mismatch in the labor market. <br>
+My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
-
+<!--
 <strong>Research Field:</strong> Macro Labor<br>
 
 <br>
+-->
 I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
 
   </div>
