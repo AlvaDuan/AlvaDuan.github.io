@@ -79,7 +79,7 @@ Welcome to my website! I am a Ph.D. candidate in the Department of Economics at 
 My research studies the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
 
-<strong>Research Fields:</strong> Macro Labor<br>
+<strong>Research Field:</strong> Macro Labor<br>
 
 <br>
 I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
