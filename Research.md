@@ -78,7 +78,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 
 <div class="abstract-text">
-   We document that college graduates predict their future occupation more accurately than those without a college degree. Based on this fact and additional evidence, we hypothesize that college graduates start their career with less uncertainty regarding their best fit in the labor market. We refer to this difference by education as the uncertainty channel. To quantify the uncertainty channel, we develop a life cycle search model where workers learn their best fit by sampling careers. A quantitative decomposition places a lower bound on the uncertainty channel's contribution to the gap in unemployment rates between college and non-college workers at 24%. 
+   We propose that college graduates enter the labor market with less uncertainty regarding which career they are most productive in, and study how this characteristic contributes to the unemployment-education gap. We document several novel facts to support our hypothesis. Notably, college graduates predict their occupation more accurately than those without a college degree. We then develop and calibrate a life cycle search model featuring differences in uncertainty by education and learning about one’s best career fit. Our quantitative analysis suggests large disparities in uncertainty by education, and that such differences can explain a sizeable portion of the unemployment-education gap. 
 </div>
 
 <!-- Add "Presentation" information -->
