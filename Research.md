@@ -53,11 +53,11 @@ permalink: /Research/
 </div>  
 -->
 
-
+<!--
 <div class="presented-at-list">
   <strong>Presented at:</strong> SUFE, ICCDS2024, SWUFE, 2023 OzMac Workshop, 2023 AMES Beijing, 2023 AMES Singapore, 2023 ESAM Sydney, 2022 AMES Tokyo, Curtin University<sup>*</sup>, Monash University<sup>*</sup>, National University of Singapore<sup>*</sup>, University of Aberdeen<sup>*</sup>, UC Irvine<sup>*</sup>, University of Melbourne<sup>*</sup>, 2022 Spring Midwestern Macroeconomics Meeting<sup>*</sup>, 2022 AMES China<sup>*</sup>, 2022 Australasia Econometric Society Meeting<sup>*</sup>, 2023 Midwest Macroeconomics Meetings<sup>*</sup>, Inaugural Search and Matching Pacific in Asia-Pacific<sup>*</sup>, the 2<sup>nd</sup> Australasian Search and Matching Workshop<sup>*</sup>.
 </div>
-
+-->
   
 - <strong class="paper">**[<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600" target="_blank" rel="noopener noreferrer">Internet Linkage and International Trade: From the Perspective of Risk Alleviation</a>](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13600), with Zengxi Hu, <em>The World Economy</em>, 2024, 47, 3551–3577.**
   [<a href="https://jie-duan.com/files/InternetTrade.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a>]</strong>
