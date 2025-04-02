@@ -78,6 +78,8 @@ Welcome to my website! I am a Ph.D. candidate in the Department of Economics at 
 <br>
 My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
+
+I will join the School of Economics, Zhejiang University as an assistant professor in July 2025.    
 <!--
 <strong>Research Field:</strong> Macro Labor<br>
 
