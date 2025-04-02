@@ -82,9 +82,9 @@ My research field is Macro Labor, where I study the sources and aggregate implic
 <strong>Research Field:</strong> Macro Labor<br>
 
 <br>
--->
-I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
 
+I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
+-->
   </div>
   <div class="image">
     {% include image.html url="images/official_photo.jpg" caption="" align="center" %}
