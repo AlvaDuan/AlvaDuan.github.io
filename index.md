@@ -74,7 +74,7 @@ permalink: /
 <h2 class="title">ABOUT ME</h2>
 <div class="container">
   <div class="text">
-Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025. I obtained my master's degree in Economics from London School of Economics, and bachelor's degree in Economics from Central University of Finance and Economics.  <br>
+Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025.   <br>
 <br>
 My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
