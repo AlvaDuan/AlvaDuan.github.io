@@ -20,39 +20,15 @@ permalink: /
     flex: 1;
     text-align: justify;
     font-size: 20px;
-    margin-right: 5px;
-  }
-  .image {
-    flex: 1;
-    margin-left: 5px;
-  }
-  .image img {
-    margin-top: 5px;
-    width: 400px;
-    height: auto;
   }
 
   /* 媒体查询，针对不同屏幕尺寸进行调整 */
   @media (max-width: 768px) {
-    .text, .image {
-      flex: 1 100%;
-      margin: 0;
-    }
     .text {
-      text-align: justify; /* 使手机浏览时文字两侧对齐 */
-      margin-left: 15px; /* 左侧距离屏幕10px */
-      margin-right: 15px; /* 右侧距离屏幕10px */
-    }
-    .image {
-      margin-top: 10px;
-      width: calc(100% - 20px); /* 照片宽度比屏幕窄20px */
-      max-width: 285px; /* 最大宽度限制 */
-      margin-left: 10px; /* 左侧距离屏幕10px */
-      margin-right: 10px; /* 右侧距离屏幕10px */
-    }
-    .image img {
-      width: 90%;
-      height: auto;
+      flex: 1 100%;
+      text-align: justify;
+      margin-left: 15px;
+      margin-right: 15px;
     }
   }
   .contact-info {
@@ -67,9 +43,6 @@ permalink: /
     font-size: 20px; 
   }
 </style>
-
-
-
 
 <h2 class="title">ABOUT ME</h2>
 <div class="container">
@@ -88,9 +61,6 @@ I will join the School of Economics, Zhejiang University as an assistant profess
 I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" target="_blank" rel="noopener noreferrer"><u>CV</u></a>.
 -->
   </div>
-  <div class="image">
-    {% include image.html url="images/official_photo.jpg" caption="" align="center" %}
-  </div>
 </div>
 
 <!--
@@ -102,9 +72,6 @@ I am on the 2024/25 academic job market. Here is my <a href="https://jie-duan.co
 </div>
 -->
 
-
 <h2 class="title">CONTACT</h2>
 <p class="contact-info section" style="margin-bottom: 0;">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
 <p class="contact-info section" style="margin-top: 0;">Email: <a href="mailto:duanjie@u.nus.edu">duanjie@u.nus.edu</a></p>
-
-
