@@ -68,7 +68,7 @@ Welcome to my website! I am a Ph.D. candidate in the Department of Economics at 
 My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
 
-I will join the School of Economics, Zhejiang University as an assistant professor in July 2025.    
+I will join the School of Economics, Zhejiang University as an assistant professor in July 2025. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" class="cv-link" target="_blank">CV</a>.   
   </div>
   <div class="photo">
     <!-- 替换为您的个人照片路径 -->
