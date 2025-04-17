@@ -11,47 +11,42 @@ permalink: /
     font-size: 25px;
     color: rgba(128, 128, 128, 0.8);
   }
+  ..container {
+  display: flex;
+  align-items: center;
+  gap: 5%; /* 5% 的间距 */
+}
+
+.text {
+  flex: 0 0 55%; /* 文字占 55% */
+  text-align: justify;
+  font-size: 20px;
+}
+
+.photo {
+  flex: 0 0 40%; /* 照片占 40% */
+  max-width: 400px; /* 限制最大宽度 */
+  height: auto;
+  aspect-ratio: 3/4; /* 推荐 3:4 人像比例 */
+  border: 3px solid rgba(128, 128, 128, 0.5);
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
   .container {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px; /* 添加间距，占剩下的5% */
+    flex-direction: column;
   }
-  .text {
-    flex: 0 0 60%; /* 占65%宽度 */
-    text-align: justify;
-    font-size: 20px;
+  .text, .photo {
+    flex: 1 100%; /* 小屏幕下均占满宽度 */
   }
   .photo {
-    flex: 0 0 35%; /* 占30%宽度 */
-    max-width: 350px; /* 设置最大宽度防止过大 */
-    height: auto; /* 高度自适应 */
-    aspect-ratio: 1/1; /* 保持1:1比例 */
-    border: 3px solid rgba(128, 128, 128, 0.5);
-    border-radius: 5px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 80%; /* 移动端照片占 80% */
+    margin: 20px auto; /* 居中显示 */
   }
-  .photo img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  /* 媒体查询，针对不同屏幕尺寸进行调整 */
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-    }
-    .text, .photo {
-      flex: 1 100%; /* 在小屏幕上各占100% */
-      max-width: 100%;
-    }
-    .photo {
-      margin-top: 20px;
-      order: -1;
-    }
-  }
+}
   .contact-info {
     margin-bottom: -5px;
     margin-top: -5px;
