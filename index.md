@@ -18,7 +18,7 @@ permalink: /
 }
 
 .text {
-  flex: 0 0 60%; /* 文字占 55% */
+  flex: 0 0 60%; /* 文字占 60% */
   text-align: justify;
   font-size: 20px;
 }
