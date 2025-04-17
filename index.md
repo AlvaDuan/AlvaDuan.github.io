@@ -14,7 +14,7 @@ permalink: /
   ..container {
   display: flex;
   align-items: center;
-  gap: 10%; /* 10% 的间距 */
+  gap: 5%; /* 10% 的间距 */
 }
 
 .text {
