@@ -24,7 +24,7 @@ permalink: /
   }
   .photo {
     flex: 0 0 35%; /* 占30%宽度 */
-    max-width: 300px; /* 设置最大宽度防止过大 */
+    max-width: 350px; /* 设置最大宽度防止过大 */
     height: auto; /* 高度自适应 */
     aspect-ratio: 1/1; /* 保持1:1比例 */
     border: 3px solid rgba(128, 128, 128, 0.5);
