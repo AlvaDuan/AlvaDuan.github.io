@@ -77,7 +77,7 @@ I will join the School of Economics, Zhejiang University as an assistant profess
   </div>
   <div class="photo">
     <!-- 替换为您的个人照片路径 -->
-    <img src="/assets/images/profile.jpg" alt="Profile Photo">
+    <img src="/images/profile.jpg" alt="Profile Photo">
   </div>
 </div>
 
