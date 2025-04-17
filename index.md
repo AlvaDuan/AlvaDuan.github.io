@@ -15,27 +15,27 @@ permalink: /
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 20px; /* 添加间距 */
+    gap: 20px; /* 添加间距，占剩下的5% */
   }
   .text {
-    flex: 1;
+    flex: 0 0 65%; /* 占65%宽度 */
     text-align: justify;
     font-size: 20px;
-    min-width: 300px; /* 确保在小屏幕上也有良好显示 */
   }
   .photo {
-    flex: 0 0 auto;
-    width: 200px;
-    height: 200px;
-    border: 3px solid rgba(128, 128, 128, 0.5); /* 灰色半透明边框 */
-    border-radius: 5px; /* 轻微圆角 */
-    overflow: hidden; /* 确保图片不超出边框 */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 轻微阴影效果 */
+    flex: 0 0 30%; /* 占30%宽度 */
+    max-width: 300px; /* 设置最大宽度防止过大 */
+    height: auto; /* 高度自适应 */
+    aspect-ratio: 1/1; /* 保持1:1比例 */
+    border: 3px solid rgba(128, 128, 128, 0.5);
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
   .photo img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* 保持图片比例 */
+    object-fit: cover;
   }
 
   /* 媒体查询，针对不同屏幕尺寸进行调整 */
@@ -43,15 +43,13 @@ permalink: /
     .container {
       flex-direction: column;
     }
-    .text {
-      flex: 1 100%;
-      text-align: justify;
-      margin-left: 15px;
-      margin-right: 15px;
+    .text, .photo {
+      flex: 1 100%; /* 在小屏幕上各占100% */
+      max-width: 100%;
     }
     .photo {
       margin-top: 20px;
-      order: -1; /* 在小屏幕上照片显示在上方 */
+      order: -1;
     }
   }
   .contact-info {
@@ -79,7 +77,7 @@ I will join the School of Economics, Zhejiang University as an assistant profess
   </div>
   <div class="photo">
     <!-- 替换为您的个人照片路径 -->
-    <img src="/images/profile.jpg" alt="Profile Photo">
+    <img src="/assets/images/profile.jpg" alt="Profile Photo">
   </div>
 </div>
 
