@@ -18,12 +18,12 @@ permalink: /
     gap: 20px; /* 添加间距，占剩下的5% */
   }
   .text {
-    flex: 0 0 65%; /* 占65%宽度 */
+    flex: 0 0 60%; /* 占65%宽度 */
     text-align: justify;
     font-size: 20px;
   }
   .photo {
-    flex: 0 0 30%; /* 占30%宽度 */
+    flex: 0 0 35%; /* 占30%宽度 */
     max-width: 300px; /* 设置最大宽度防止过大 */
     height: auto; /* 高度自适应 */
     aspect-ratio: 1/1; /* 保持1:1比例 */
