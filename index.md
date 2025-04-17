@@ -27,7 +27,7 @@ permalink: /
   flex: 0 0 30%; /* 照片占 30% */
   max-width: 300px; /* 限制最大宽度 */
   height: auto;
-  aspect-ratio: 3/4; /* 推荐 3:4 人像比例 */
+  aspect-ratio: 3/3; /* 推荐 3:4 人像比例 */
   border: 3px solid rgba(128, 128, 128, 0.5);
   border-radius: 5px;
   overflow: hidden;
