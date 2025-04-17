@@ -5,13 +5,14 @@ permalink: /
 ---
 
 <style>
-  .title {
+.title {
     font-family: 'Verdana', sans-serif;
     font-weight: bold;
     font-size: 25px;
     color: rgba(128, 128, 128, 0.8);
   }
-  .container {
+  
+.container {
   display: flex;
   align-items: center;
   gap: 5%; /* 10% 的间距 */
