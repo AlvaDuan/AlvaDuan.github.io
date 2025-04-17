@@ -18,14 +18,14 @@ permalink: /
 }
 
 .text {
-  flex: 0 0 55%; /* 文字占 55% */
+  flex: 0 0 60%; /* 文字占 55% */
   text-align: justify;
   font-size: 20px;
 }
 
 .photo {
-  flex: 0 0 40%; /* 照片占 40% */
-  max-width: 400px; /* 限制最大宽度 */
+  flex: 0 0 35%; /* 照片占 40% */
+  max-width: 350px; /* 限制最大宽度 */
   height: auto;
   aspect-ratio: 3/4; /* 推荐 3:4 人像比例 */
   border: 3px solid rgba(128, 128, 128, 0.5);
