@@ -64,12 +64,12 @@ permalink: /
 <h2 class="title">ABOUT ME</h2>
 <div class="container">
   <div class="text">
-Welcome to my website! I am a Ph.D. candidate in the Department of Economics at the National University of Singapore, with an expected graduate date of June 2025.   <br>
+Welcome to my website! I am an Assistant Professor ("Hundred Talents Program") in the School of Economics at the Zhejiang University. <br>
 <br>
 My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
 
-I will join the School of Economics, Zhejiang University as an assistant professor in July 2025. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" class="cv-link" target="_blank">CV</a>.   
+Before joining ZJU, I obtained my Ph.D. in Economics from National University of Singapore in 2025. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" class="cv-link" target="_blank">CV</a>.   
   </div>
   
   <div class="photo">
