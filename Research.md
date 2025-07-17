@@ -71,14 +71,14 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## WORKING PAPERS
 
-- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UnempEduc_Gap.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>** 
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/UnempEduc_Gap.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UEGap2025.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>** 
   <br>
 </strong>
 
 
 
 <div class="abstract-text">
-   We propose that college graduates enter the labor market with less uncertainty regarding which career they are most productive in, and study how this characteristic contributes to the unemployment-education gap. We document several novel facts to support our hypothesis. Notably, college graduates predict their occupation more accurately than those without a college degree. We then develop and calibrate a life cycle search model featuring differences in uncertainty by education and learning about one’s best career fit. Our quantitative analysis suggests large disparities in uncertainty by education, and that such differences can explain a sizeable portion of the unemployment-education gap. 
+   We propose that college graduates enter the labor market with less uncertainty regarding which career they are most productive in, and study how this characteristic contributes to the unemployment-education gap. We document several novel facts to support our hypothesis. Notably, college graduates predict their occupation more accurately than those without a college degree. We then develop and calibrate a life cycle search model featuring differences in uncertainty by education and learning about one’s best career fit. Our quantitative analysis suggests large disparities in uncertainty by education, and that such differences can explain a sizeable portion of the unemployment-education gap.
 </div>
 
 <!-- Add "Presentation" information -->
