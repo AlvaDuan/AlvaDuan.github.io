@@ -79,5 +79,5 @@ Before joining ZJU, I obtained my Ph.D. in Economics from National University of
 </div>
 
 <h2 class="title">CONTACT</h2>
-<p class="contact-info section" style="margin-bottom: 0;">Address: Blk AS1, #01-02, 1 Arts Link, Singapore 117570.</p>
+<p class="contact-info section" style="margin-bottom: 0;">Address: 866 Yuhangtang Rd, Hangzhou 310058, China</p>
 <p class="contact-info section" style="margin-top: 0;">Email: <a href="mailto:duanjie@u.nus.edu">duanjie@u.nus.edu</a></p>
