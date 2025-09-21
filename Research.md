@@ -44,7 +44,7 @@ permalink: /Research/
 
 ## PUBLICATIONS
 
- - <strong class="paper"> **[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393224000862" target="_blank" rel="noopener noreferrer">The Underemployment Trap</a>](https://www.sciencedirect.com/science/article/abs/pii/S0304393224000862), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, forthcoming at <em>Journal of Monetary Economics</em>, 2025.** <br>
+ - <strong class="paper"> **[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393224000862" target="_blank" rel="noopener noreferrer">The Underemployment Trap</a>](https://www.sciencedirect.com/science/article/abs/pii/S0304393224000862), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, <em>Journal of Monetary Economics</em>, 2025, Volume 155.** <br>
 [<a href="https://jie-duan.com/files/DurDep_Main.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a>], [<a href="https://jie-duan.com/files/DurDep_Supp.pdf" target="_blank" rel="noopener noreferrer">Supplementary Materials</a>]</strong>
 
 <!--
