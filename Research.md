@@ -71,7 +71,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## WORKING PAPERS
 
-- <strong class="paper"> **[<a href="https://jie-duan.com/files/UEGap2025.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UEGap2025.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, Revision Requested by the <em>Economic Journal</em>** 
+- <strong class="paper"> **[<a href="https://jie-duan.com/files/UEGap2025.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UEGap2025.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, Revise and Resubmit, <em>The Economic Journal</em>** 
   <br>
 </strong>
 
