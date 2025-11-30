@@ -4,6 +4,18 @@ title: TEACHING
 permalink: /teaching/
 ---
 
+### Economic Forecasting Methods
+- **Graduate**
+- **Teaching Year:** 2025 Fall
+- **Lecturer**
+- <a href="https://jie-duan.com/files/EconomicsPredictionEvaluation.pdf" target="_blank" rel="noopener noreferrer">**Teaching Evaluation**</a>
+
+### The Economics of AI
+- **Graduate**
+- **Teaching Year:** 2025 Fall
+- **Lecturer**
+- <a href="https://jie-duan.com/files/AIEconomicsEvaluation.pdf" target="_blank" rel="noopener noreferrer">**Teaching Evaluation**</a>
+
 ### EC5102/EC5102R Macroeconomic Theory
 - **Graduate**
 - **Teaching Year:** 2022 Fall
