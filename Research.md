@@ -83,7 +83,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong> National Taiwan University<sup>*</sup>, Zhejiang University, Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+    <strong>Presented at:</strong> Renmin University, Central University of Finance and Economics, National Taiwan University<sup>*</sup>, Zhejiang University, Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
 
