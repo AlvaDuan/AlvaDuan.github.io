@@ -74,7 +74,7 @@ Before joining ZJU, I obtained my Ph.D. in Economics from National University of
   
   <div class="photo">
     <!-- 替换为您的个人照片路径 -->
-    <img src="/images/NUSCeremony.jpg" alt="Profile Photo">
+    <img src="/images/NUSCeremonyHalf.jpg" alt="Profile Photo">
   </div>
 </div>
 
