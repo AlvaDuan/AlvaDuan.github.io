@@ -69,12 +69,12 @@ Welcome to my website! I am an Assistant Professor ("Hundred Talents Program") i
 My research field is Macro Labor, where I study the sources and aggregate implications of mismatch in the labor market. <br>
 <br>
 
-Before joining ZJU, I obtained my Ph.D. in Economics from National University of Singapore in 2025. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" class="cv-link" target="_blank">CV</a>.   
+Before joining ZJU, I obtained my Ph.D. in Economics from the National University of Singapore in 2025. Here is my <a href="https://jie-duan.com/files/CV_JMC.pdf" class="cv-link" target="_blank">CV</a>.   
   </div>
   
   <div class="photo">
     <!-- 替换为您的个人照片路径 -->
-    <img src="/images/NUSCeremonyHalf.jpg" alt="Profile Photo">
+    <img src="/images/NUSGraduationNEW.jpg" alt="Profile Photo">
   </div>
 </div>
 
