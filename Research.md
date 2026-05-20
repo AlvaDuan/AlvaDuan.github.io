@@ -83,7 +83,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong> Renmin University, Central University of Finance and Economics, National Taiwan University<sup>*</sup>, Zhejiang University, Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
+    <strong>Presented at:</strong> Miami University<sup>*</sup>, Renmin University, Central University of Finance and Economics, National Taiwan University<sup>*</sup>, Zhejiang University, Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
 
@@ -103,6 +103,11 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 ## (SELECTED) WORK IN PROGRESS
 - <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit and the College Wage Premium, with <a href="https://sites.google.com/site/baydur/home" target="_blank" rel="noopener noreferrer">Ismail Baydur</a> (SMU) and  <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS).** 
 </strong>
+
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University (Scheduled)
+</div>
 
 <!-- 
 - <strong class="paper"> **Job Search in China's Labor Market, with <a href="https://yizhengu.weebly.com/" target="_blank" rel="noopener noreferrer">Yizhen Gu</a> (PHBS, PKU), <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS), and <a href="https://sites.google.com/site/oo7zsx/" target="_blank" rel="noopener noreferrer">Shengxing Zhang</a> (CMU).** 
