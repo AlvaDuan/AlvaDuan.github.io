@@ -106,7 +106,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University (Scheduled)
+    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University
 </div>
 
 <!-- 
