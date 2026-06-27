@@ -86,6 +86,14 @@ Extensive research has studied the effect of the Internet on trade, yet little i
     <strong>Presented at:</strong> Miami University<sup>*</sup>, Renmin University, Central University of Finance and Economics, National Taiwan University<sup>*</sup>, Zhejiang University, Dongbei University of Finance and Economics, Tongji University, Duke Kunshan University, Southwest University of Finance and Economics, Shanghai University of Finance and Economics(&times;2), Xiamen University, Dynare Conference 2024<sup>*</sup>, OzMac 2024<sup>*</sup>, WAMS+LAFE 2024<sup>*</sup>, ESEM2024<sup>*</sup>, AMES2024 (Vietnam)<sup>*</sup>, GEA<sup>*</sup>, AMES2024 (Hangzhou), NUS Macro Brownbag(&times;3), PHBS<sup>*</sup>, Monash Macro and Money Workshop<sup>*</sup>
 </div>
 
+- <strong class="paper"> **Employment and Welfare Effects of the New Occupational Injury Insurance Pilot Program: A Quantitative General Equilibrium Evaluation (in Chinese), with Xue Qiao (Renmin University) and Guanglin Ma (Renmin University).** 
+</strong>
+
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+    <strong>Presented at:</strong>  SUFE MacroWorkshop<sup>*</sup>, Zhejiang University<sup>*</sup>
+</div>
+
 
 - <strong class="paper"> **[<a href="https://jie-duan.com/files/ProcyclicalityWageLosses.pdf" target="_blank" rel="noopener noreferrer">Procyclical Wage Losses from Skill Mismatch</a>](https://jie-duan.com/files/ProcyclicalityWageLosses.pdf)** 
   <br>
@@ -106,8 +114,9 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University
+    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), SJTU Antai<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled), Renmin University<sup>*</sup>(Scheduled), Peking University<sup>*</sup>(Scheduled)
 </div>
+
 
 <!-- 
 - <strong class="paper"> **Job Search in China's Labor Market, with <a href="https://yizhengu.weebly.com/" target="_blank" rel="noopener noreferrer">Yizhen Gu</a> (PHBS, PKU), <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS), and <a href="https://sites.google.com/site/oo7zsx/" target="_blank" rel="noopener noreferrer">Shengxing Zhang</a> (CMU).** 
