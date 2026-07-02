@@ -89,7 +89,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 - <strong class="paper"> **Employment and Welfare Effects of the New Occupational Injury Insurance Pilot Program: A Quantitative General Equilibrium Evaluation (in Chinese), with  <a href="https://econ.ruc.edu.cn/szdw/jsml/ajyspx/gjjjxsjjjjys/qx/index.htm" target="_blank" rel="noopener noreferrer">Xue Qiao</a> and Guanglin Ma, Under Review.** 
 </strong>
 
-<div class="abstract-text">
+<div class="abstract-text" style="font-family: '华文仿宋', STFangsong, 'FangSong', serif; font-size: 0.92em; line-height: 1.8;">
    尽管外卖配送、网约车等平台新就业形态在全国就业中的占比持续上升，劳动关系认定模糊却使平台劳动者难以纳入传统社会保障体系。针对这一问题，中国自2022年起推行“新就业形态职业伤害保障”（以下简称“新职伤”）试点，以“按单计费”这一有别于传统社保的创新机制为平台劳动者提供职业伤害保障。为探讨“新职伤”制度对就业、平台算法与社会福利的影响，本文构建了一个具有内生算法强度与工资黏性的动态搜寻匹配模型，进行一般均衡分析并定量评估其长短期效果。研究发现，“新职伤”制度能够降低失业率，促使平台降低算法强度，提高社会总福利，但该效果依赖工资调整的灵活程度以及劳动者对职伤风险与保障的主观评价与认知。首先，若工资可灵活调整且劳动者充分认知职业伤害风险，“新职伤”能够促进岗位创造，降低失业率，改善社会福利。其次，在工资黏性条件下，“新职伤”在短期内可能导致岗位创造下降、失业率上升，原因在于平台通过工资调整向劳动者分摊缴费成本的空间受限。再次，“新职伤”能够部分矫正平台算法强度的负外部性，提高社会总福利：当费率足够高时，可有效抑制过度算法控制并实现帕累托改进。拓展分析进一步表明，相较于传统工伤保险，“按单计费”的创新机制不仅能够降低平台算法强度，还可在经济遭受负向需求冲击时发挥自动稳定器功能。本文的研究结论为深入理解和评估“新职伤”的政策效果、优化新就业形态社会保障制度设计提供了理论依据与政策启示。
 </div>
 
