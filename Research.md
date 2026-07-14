@@ -121,6 +121,9 @@ Extensive research has studied the effect of the Internet on trade, yet little i
     <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), SJTU Antai<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled), Renmin University of China<sup>*</sup>(Scheduled), Peking University<sup>*</sup>(Scheduled)
 </div>
 
+- <strong class="paper"> **Wage Growth over the Life Cycle with Endogenous Human Capital Accumulation, with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS) and <a href="https://fass.nus.edu.sg/ecs/people/qing-xingjian-2/" target="_blank" rel="noopener noreferrer">Xingjian Qing</a> (NUS) .** 
+</strong>
+
 
 <!-- 
 - <strong class="paper"> **Job Search in China's Labor Market, with <a href="https://yizhengu.weebly.com/" target="_blank" rel="noopener noreferrer">Yizhen Gu</a> (PHBS, PKU), <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS), and <a href="https://sites.google.com/site/oo7zsx/" target="_blank" rel="noopener noreferrer">Shengxing Zhang</a> (CMU).** 
