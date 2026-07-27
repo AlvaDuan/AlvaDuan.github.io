@@ -71,6 +71,14 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## WORKING PAPERS
 
+- <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit and the College Wage Premium, with <a href="https://sites.google.com/site/baydur/home" target="_blank" rel="noopener noreferrer">Ismail Baydur</a> (SMU) and  <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS). <small>[<i>Draft available upon request</i>]</small>** 
+</strong>
+
+<!-- Add "Presentation" information -->
+<div class="presented-at-list">
+    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), SJTU Antai<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled), Renmin University of China<sup>*</sup>(Scheduled), Peking University<sup>*</sup>(Scheduled)
+</div>
+
 - <strong class="paper"> **[<a href="https://jie-duan.com/files/UEGap2026.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UEGap2025.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, Revise and Resubmit, <em>The Economic Journal</em>** 
   <br>
 </strong>
@@ -113,13 +121,6 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 
 ## (SELECTED) WORK IN PROGRESS
-- <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit and the College Wage Premium, with <a href="https://sites.google.com/site/baydur/home" target="_blank" rel="noopener noreferrer">Ismail Baydur</a> (SMU) and  <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS). <small>[<i>DRAFT COMING SOON</i>]</small>** 
-</strong>
-
-<!-- Add "Presentation" information -->
-<div class="presented-at-list">
-    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), SJTU Antai<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled), Renmin University of China<sup>*</sup>(Scheduled), Peking University<sup>*</sup>(Scheduled)
-</div>
 
 - <strong class="paper"> **Wage Growth over the Life Cycle with Endogenous Human Capital Accumulation, with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS) and <a href="https://fass.nus.edu.sg/ecs/people/qing-xingjian-2/" target="_blank" rel="noopener noreferrer">Xingjian Qing</a> (NUS) .** 
 </strong>
