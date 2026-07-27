@@ -71,7 +71,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 ## WORKING PAPERS
 
-- <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit and the College Wage Premium, with <a href="https://sites.google.com/site/baydur/home" target="_blank" rel="noopener noreferrer">Ismail Baydur</a> (SMU) and  <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS). <small>[<i>Draft available upon request</i>]</small>** 
+- <strong class="paper"> **Lifelong Gains from a Strong Start: Early Career Fit and the College Wage Premium, with <a href="https://sites.google.com/site/baydur/home" target="_blank" rel="noopener noreferrer">Ismail Baydur</a> (SMU) and  <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a> (NUS). [Draft available upon request]** 
 </strong>
 
 <!-- Add "Presentation" information -->
