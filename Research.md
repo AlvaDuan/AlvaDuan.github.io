@@ -76,7 +76,7 @@ Extensive research has studied the effect of the Internet on trade, yet little i
 
 <!-- Add "Presentation" information -->
 <div class="presented-at-list">
-    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled),PHBS(Scheduled), Peking University<sup>*</sup>(Scheduled)
+    <strong>Presented at:</strong>  NUS Macro Brownbag, UC Riverside<sup>*</sup>, Wuhan University, SUFE<sup>*</sup>(Scheduled), Zhejiang University<sup>*</sup>(Scheduled), Peking University<sup>*</sup>(Scheduled), PHBS(Scheduled)
 </div>
 
 - <strong class="paper"> **[<a href="https://jie-duan.com/files/UEGap2026.pdf" target="_blank" rel="noopener noreferrer">Uncertainty, Learning, and the Unemployment-Education Gap over the Life Cycle</a>](https://jie-duan.com/files/UEGap2025.pdf), with <a href="https://www.paulgjackson.com/" target="_blank" rel="noopener noreferrer">Paul Jackson</a>, Revise and Resubmit, <em>The Economic Journal</em>** 
